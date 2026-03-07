@@ -1,0 +1,10 @@
+{
+  "name": "csadprg_gr5",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "CSADPRG Group 5 Data Analysis Pipeline for Flood Control Projects",
+  "main": "src.js",
+  "dependencies": {
+    "csv": "^6.4.1"
+  }
+}
